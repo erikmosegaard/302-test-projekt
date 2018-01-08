@@ -6,7 +6,7 @@
 |Bamathy |        |
 |David   |        |
 |Dominik |        |
-|Erik    |        |
+|Erik    |    X   |
 |Halid   |        |
 |Hezekiah|        |
 |James   |        |
